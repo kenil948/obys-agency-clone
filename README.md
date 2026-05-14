@@ -1,32 +1,38 @@
 # Obys Agency Clone
 
-This is a premium Obys Agency inspired website clone built using HTML, CSS and JavaScript.
+This is a premium Obys Agency inspired website clone built using HTML, CSS and JavaScript.  
 The project focuses on smooth scrolling, immersive animations, interactive UI effects, responsive layouts and modern frontend design aesthetics.
+
+---
 
 ## Features
 
-* Fully responsive layout
-* Smooth scrolling experience
-* GSAP powered animations
-* Interactive custom cursor
-* Magnetic navbar hover effects
-* Shery.js image distortion effects
-* Video interaction section
-* Animated marquee section
-* Premium typography inspired UI
-* Responsive project showcase layout
-* Smooth hover and transition animations
+- Fully responsive layout
+- Smooth scrolling experience
+- GSAP powered animations
+- Interactive custom cursor
+- Magnetic navbar hover effects
+- Shery.js image distortion effects
+- Video interaction section
+- Animated marquee section
+- Premium typography inspired UI
+- Responsive project showcase layout
+- Smooth hover and transition animations
+
+---
 
 ## Technologies Used
 
-* HTML5
-* CSS3
-* JavaScript (ES6)
-* GSAP
-* ScrollTrigger
-* Locomotive Scroll
-* Shery.js
-* Git & GitHub
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- GSAP
+- ScrollTrigger
+- Locomotive Scroll
+- Shery.js
+- Git & GitHub
+
+---
 
 ## Folder Structure
 
@@ -40,7 +46,6 @@ obys-agency-clone/
 ├── assets/
 │   ├── images/
 │   │   ├── Bg-Video.png
-│   │   ├── flag.png
 │   │   ├── hero-section-desktop.jpg
 │   │   ├── about-section-desktop.jpg
 │   │   ├── about-section-top-content.jpg
@@ -62,6 +67,9 @@ obys-agency-clone/
 │       ├── plain-regular-webfont.ttf
 │       ├── silkserif-lightitalic-webfont.ttf
 │       └── silkserif-regularitalic-webfont.ttf
+```
+
+---
 
 ## Screenshots
 
@@ -87,6 +95,10 @@ obys-agency-clone/
 
 ![About Section](./assets/images/about-section-desktop.jpg)
 
+### About Top Content
+
+![About Top Content](./assets/images/about-section-top-content.jpg)
+
 ### Marquee Animation Section
 
 ![Marquee Animation Section](./assets/images/marquee-animation-section.jpg)
@@ -94,6 +106,8 @@ obys-agency-clone/
 ### Footer Section
 
 ![Footer Section](./assets/images/footer-section.jpg)
+
+---
 
 ## Mobile Responsive Screenshots
 
@@ -109,34 +123,49 @@ obys-agency-clone/
 
 ![Mobile About](./assets/images/mobile-about.jpg)
 
+---
+
 ## Demo Video
 
 [Watch Demo Video](https://drive.google.com/file/d/1RuHqs_IKU-aCQTU_5UztMRjT22ZL0eAU/view?usp=drive_link)
 
+---
+
 ## How to Run
 
-1. Clone the repository:
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/kenil948/obys-agency-clone.git
-2. Open `index.html` in your browser.
+```
+
+### 2. Open the project
+
+Open `index.html` in your browser.
+
+---
 
 ## Live Demo
 
-Check it out here:  
+Check it out here:
+
 https://kenil948.github.io/obys-agency-clone/
+
+---
 
 ## What I Learned
 
-* Advanced GSAP animations
-* Smooth scrolling implementation
-* Responsive web design
-* Interactive cursor effects
-* Hover distortion effects using Shery.js
-* Scroll based animations
-* Typography and layout balancing
-* Improving frontend UI/UX
-* Better GitHub project structuring
+- Advanced GSAP animations
+- Smooth scrolling implementation
+- Responsive web design
+- Interactive cursor effects
+- Hover distortion effects using Shery.js
+- Scroll based animations
+- Typography and layout balancing
+- Improving frontend UI/UX
+- Better GitHub project structuring
+
+---
 
 ## Notes
 
