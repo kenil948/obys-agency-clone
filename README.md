@@ -3,8 +3,6 @@
 This is a premium Obys Agency inspired website clone built using HTML, CSS and JavaScript.  
 The project focuses on smooth scrolling, immersive animations, interactive UI effects, responsive layouts and modern frontend design aesthetics.
 
----
-
 ## Features
 
 - Fully responsive layout
@@ -19,8 +17,6 @@ The project focuses on smooth scrolling, immersive animations, interactive UI ef
 - Responsive project showcase layout
 - Smooth hover and transition animations
 
----
-
 ## Technologies Used
 
 - HTML5
@@ -31,8 +27,6 @@ The project focuses on smooth scrolling, immersive animations, interactive UI ef
 - Locomotive Scroll
 - Shery.js
 - Git & GitHub
-
----
 
 ## Folder Structure
 
@@ -68,8 +62,6 @@ obys-agency-clone/
 │       ├── silkserif-lightitalic-webfont.ttf
 │       └── silkserif-regularitalic-webfont.ttf
 ```
-
----
 
 ## Screenshots
 
@@ -107,8 +99,6 @@ obys-agency-clone/
 
 ![Footer Section](./assets/images/footer-section.jpg)
 
----
-
 ## Mobile Responsive Screenshots
 
 ### Mobile Hero
@@ -123,13 +113,9 @@ obys-agency-clone/
 
 ![Mobile About](./assets/images/mobile-about.jpg)
 
----
-
 ## Demo Video
 
 [Watch Demo Video](https://drive.google.com/file/d/1RuHqs_IKU-aCQTU_5UztMRjT22ZL0eAU/view?usp=drive_link)
-
----
 
 ## How to Run
 
@@ -143,15 +129,11 @@ git clone https://github.com/kenil948/obys-agency-clone.git
 
 Open `index.html` in your browser.
 
----
-
 ## Live Demo
 
 Check it out here:
 
 https://kenil948.github.io/obys-agency-clone/
-
----
 
 ## What I Learned
 
@@ -164,8 +146,6 @@ https://kenil948.github.io/obys-agency-clone/
 - Typography and layout balancing
 - Improving frontend UI/UX
 - Better GitHub project structuring
-
----
 
 ## Notes
 
